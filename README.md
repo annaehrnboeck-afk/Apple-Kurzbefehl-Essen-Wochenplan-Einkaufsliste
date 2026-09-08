@@ -40,6 +40,7 @@ Dateien in einem Ordner. Alle Mahlzeiten müssen als png Datei mit Zutatenliste 
 <img width="660" height="352" alt="Bildschirmfoto 2026-09-08 um 10 49 33" src="https://github.com/user-attachments/assets/7f9adc6f-7667-4ca5-8a53-8a5634191620" />
 
 Angestrebtes Rezeptformat:
+
 <img width="282" height="739" alt="Bildschirmfoto 2026-09-08 um 11 22 56" src="https://github.com/user-attachments/assets/92947af5-f3ee-4a76-a6d6-e68e447d1a29" />
 
 # Herausforderungen

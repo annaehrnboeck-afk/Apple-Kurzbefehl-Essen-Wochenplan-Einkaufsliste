@@ -50,6 +50,3 @@ Wochentag in Zahl.Mahlzeit in Zahl Wochentag in Kurzform Mahlzeit in Kurzform
 Montag Frühstück - Dateiname: 1.1. MO F
 Dienstag Mittag - Dateiname: 2.2 Di M
 Mittwoch Abendessen - Dateiname: 3.3 Mi A
-
-# Lernerfahrungen
-Was wurde gelernt?
